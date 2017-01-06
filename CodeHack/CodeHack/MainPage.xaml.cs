@@ -70,8 +70,6 @@ namespace CodeHack
                     }
             }
 
-
-
             if (result)
             {
                 this.client = new MobileServiceClient(Constants.ApplicationURL);
